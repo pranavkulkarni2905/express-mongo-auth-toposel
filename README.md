@@ -1,3 +1,5 @@
+
+
 # Express.js User Authentication API
 
 This is a **Node.js + Express.js + MongoDB** backend API for user authentication. It allows users to **register**, **log in**, and **search users** using **JWT authentication**.
@@ -62,6 +64,15 @@ For development (auto-restart using nodemon):
 ```
 npm run dev
 ```
+# Deployed On Render 
+### https://express-mongo-auth-toposel.onrender.com/
+- Register
+  https://express-mongo-auth-toposel.onrender.com/api/auth/register (POST)
+- Login
+  https://express-mongo-auth-toposel.onrender.com/api/auth/login  (POST)
+- Search User By username or Email
+  https://express-mongo-auth-toposel.onrender.com/api/auth/search?query=username_email (GET)
+  
 ## API Endpoints
 ### 📌 1. Register User
 Endpoint: POST /api/auth/register
