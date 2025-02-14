@@ -22,9 +22,20 @@ This is a **Node.js + Express.js + MongoDB** backend API for user authentication
 - **Postman** (API Testing)
 
 ---
+## Screenshots
+- Database MongoDB
+  ![image](https://github.com/user-attachments/assets/71c58c1e-de13-45cc-9cb5-9484645a21e3)
+- Postman API Testing
+
+  ![image](https://github.com/user-attachments/assets/1917d401-25fe-4adc-88dc-51e5747695be)
+
+  ![image](https://github.com/user-attachments/assets/7803a913-c2a1-42b0-8d05-a6a50cf50ea6)
+
+  ![image](https://github.com/user-attachments/assets/dc13a59a-3619-43d8-9e51-7d2676da340d)
 
 
----
+
+
 
 ## Installation & Setup
 
